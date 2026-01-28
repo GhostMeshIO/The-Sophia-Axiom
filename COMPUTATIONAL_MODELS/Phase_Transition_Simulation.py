@@ -1,5 +1,5 @@
 """
-INTEGRATED_PHASE_TRANSITION_SIMULATOR.py
+PHASE_TRANSITION_SIMULATOR.py
 Synthesis of:
 1. Advanced mathematical framework (Landau-Ginzburg, Bifurcation, Catastrophe theory)
 2. MOS-HSRCF v4.0 theoretical fixes (ERD conservation, RG flows)

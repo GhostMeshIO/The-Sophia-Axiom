@@ -282,3 +282,23 @@
     - *The Quest for Consciousness*
     - Neural correlates of consciousness
     - Integrated information applications
+
+---
+
+## **Citation Format**
+
+When referencing Sophia Axiom materials:
+```
+Sophia Axiom Framework. (2026). The Sophia Axiom: A Unified Theory of Gnostic Ontology and Quantum Relativity.
+GitHub Repository: https://github.com/GhostMeshIO/The-Sophia-Axiom
+```
+
+For specific documents:
+```
+Author. (2026). Document Title. In *The Sophia Axiom* (Version 1.0).
+Retrieved from https://github.com/GhostMeshIO/The-Sophia-Axiom/path/to/document
+```
+
+---
+
+*This reference list evolves as the framework develops. Submit additional references via Issues or Pull Requests.*
